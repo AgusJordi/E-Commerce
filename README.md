@@ -3,7 +3,7 @@
 </p>
 
 # E-Commerce
-E-commerce realizado en equipo como parte de instancia evaluativa en https://www.soyhenry.com/.
+E-commerce realizado en equipo como parte de instancia evaluativa en [Soy Henry](https://www.soyhenry.com/)
 
 ## Construido con 🛠️
 * **JavaScript (ES6)**
