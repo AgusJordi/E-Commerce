@@ -11,6 +11,7 @@ E-commerce realizado en equipo como parte de instancia evaluativa en [Soy Henry]
 * **Hooks**
 * **Node.Js**
 * **Express**
+* **PostgreSQL / Sequelize**
 * **Google API**
 * **Bootstrap**
 * **Material-ui**
