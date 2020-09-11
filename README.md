@@ -1,5 +1,5 @@
 <p align='left'>
-    <img src='![logosixbeer](logosixbeer.png)' </img>
+    <img src='(logosixbeer.png)' </img>
 </p>
 
 # E-Commerce
