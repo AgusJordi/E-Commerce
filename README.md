@@ -18,7 +18,7 @@ E-commerce realizado en equipo como parte de instancia evaluativa en [Soy Henry]
 
 ## Contributors 🚀
 
-* [Lucca Lipisjy](https://github.com/luccalipisky)
+* [Lucca Lipisky](https://github.com/luccalipisky)
 * [Fernando Checchi](https://github.com/FernandoChecchi)
 * [Edgar Palma](https://github.com/Edgar9408)
 
