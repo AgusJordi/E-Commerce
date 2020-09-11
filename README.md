@@ -6,15 +6,15 @@
 E-commerce realizado en equipo como parte de instancia evaluativa en https://www.soyhenry.com/.
 
 ## Construido con 🛠️
--JavaScript (ES6)
--React - Redux
--Hooks
--Node.Js
--Express
--Google API
--Bootstrap
--Material-ui
--VS Code
+* **JavaScript (ES6)
+* **React - Redux
+* **Hooks
+* **Node.Js
+* **Express
+* **Google API
+* **Bootstrap
+* **Material-ui
+* **VS Code
 
 ## Contributors 🚀
 
