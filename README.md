@@ -23,3 +23,4 @@ E-commerce realizado en equipo como parte de instancia evaluativa en [Soy Henry]
 * [Fernando Checchi](https://github.com/FernandoChecchi)
 * [Edgar Palma](https://github.com/Edgar9408)
 
+Objetivos a lograr descriptos en el readme dentro de la carpeta. Calificacion final: 8/10
