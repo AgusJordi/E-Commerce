@@ -1,0 +1,71 @@
+.card {
+    border-bottom: 2px solid rgb(209, 209, 209);
+    
+    padding: 30px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    margin-top: 0px;
+    width: 60%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+    margin: 0px 50px 0px 0px;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+}
+.info {
+    width: 350px;
+    margin: 0px 50px 0px 40px;
+}
+
+.title {
+    padding-right:120px ;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 33px;
+}
+
+.style {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.quantity {
+    margin: 0px 50px 0px 0px;
+    display: flex;
+}
+
+.number {
+    font-size: 24px;
+    margin: 0px 15px 0px 15px;
+}
+
+.subtotal {
+    font-size: 14px;
+    margin: 0px 30px 0px 80px;
+}
+
+.uPrice{
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.price {
+    border-top: 1px solid rgb(209, 209, 209);
+    padding-top: 5px ;
+    margin: -15px 0px 0px 0px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.stock {
+    margin-top:5px ;
+    font-size: 12px;
+    font-weight: 400;
+}

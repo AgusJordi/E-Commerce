@@ -1,0 +1,31 @@
+
+
+function filtrarEstilos (styleName){
+       axios({
+           method: "GET",
+           url: `http://localhost:3000/styles/${styleName}`,
+           headers: {
+             "Content-Type": "application/json"
+           }
+         }).then(res => {
+       
+           setBeers(res.data);
+         });
+      
+ }
+
+
+ function buscarCerveza(beer){
+         axios({
+             method: "GET",
+             url: `http://localhost:3000/beers/search/?query=${beer}`,
+             headers: {
+               "Content-Type": "application/json"
+             }
+           }).then(res => {
+         
+            setBeers(res.data);
+            
+           });
+
+         }

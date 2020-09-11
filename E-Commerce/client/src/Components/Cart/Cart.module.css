@@ -1,0 +1,27 @@
+.container {
+    margin-top: 70px;
+}
+
+.price {
+    padding-top: 5px ;
+    margin: -15px 0px 0px 0px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
+.subtotal{
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 60%;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.flex{
+    margin-top: -70px;
+    margin-right: 385px;
+    display: flex;
+    justify-content: flex-end;
+   
+}
