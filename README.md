@@ -5,7 +5,7 @@
 # E-Commerce
 E-commerce realizado en equipo como parte de instancia evaluativa en [Soy Henry](https://www.soyhenry.com/)
 
-## Construido con 🛠️
+## Construido con 🛠️   
 * **JavaScript (ES6)**
 * **React - Redux**
 * **Hooks**
