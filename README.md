@@ -1,5 +1,5 @@
 <p align='left'>
-    <img src='https://i.postimg.cc/qvqCzt3R/logosixbeer.png' </img>  <img src='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png' width="10%" </img>
+    <img src='https://i.postimg.cc/qvqCzt3R/logosixbeer.png' </img>  <img src='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png' width="5%" </img>
 </p>
 
 # E-Commerce
@@ -23,4 +23,4 @@ E-commerce realizado en equipo como parte de instancia evaluativa en [Soy Henry]
 * [Fernando Checchi](https://github.com/FernandoChecchi)
 * [Edgar Palma](https://github.com/Edgar9408)
 
-Objetivos a lograr descriptos en el readme dentro de la carpeta. Calificación final: 8/10
+Objetivos a lograr descriptos en el readme dentro de la carpeta. Calificación final: 8/10.
