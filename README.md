@@ -1,5 +1,5 @@
 <p align='left'>
-    <img src='https://i.postimg.cc/qvqCzt3R/logosixbeer.png' </img>  <img src='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png' width="20%" </img>
+    <img src='https://i.postimg.cc/qvqCzt3R/logosixbeer.png' </img>  <img src='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png' width="10%" </img>
 </p>
 
 # E-Commerce
