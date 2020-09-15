@@ -1,5 +1,5 @@
 <p align='left'>
-    <img src='https://i.postimg.cc/qvqCzt3R/logosixbeer.png' </img>  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' </img>
+    <img src='https://i.postimg.cc/qvqCzt3R/logosixbeer.png' </img>  <img src='https://i0.pngocean.com/files/640/199/669/javascript-logo-html-clip-art-javascript-logo-thumb.jpg' width="20%" </img>
 </p>
 
 # E-Commerce
